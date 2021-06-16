@@ -1,0 +1,35 @@
+.filter-section{
+    
+    padding: 2% 14%;
+    box-sizing: border-box;
+}
+.filter-container{
+    display: flex;
+    margin-top: 80px;
+    align-items: center;
+     
+}
+.technologies{
+    display: flex;
+     
+    flex-wrap: wrap;
+    text-align: center;
+}
+#para{
+         background-color: #0084ff;
+         color: white;
+}
+.paras{
+    width: auto;
+    font-size: .75em;
+    color: #0084FF;
+    padding: 6px 16px;
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    margin: 5px;
+    cursor: pointer;
+    opacity: 0.9;
+    align-items: center;
+}
+
+
