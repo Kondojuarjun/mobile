@@ -15,7 +15,7 @@
     flex-wrap: wrap;
     text-align: center;
 }
-#para{
+.technologies p:first-of-type{
          background-color: #0084ff;
          color: white;
 }
