@@ -8,7 +8,7 @@ const Header = () => {
                      <div className="edyoda">EDYODA</div>
                        <p className="story">Stories</p>
                  </div>
-                 <div className="explore">Explore Categories
+                 <div className="explore">Explore  Categories
                  <i className="fas fa-chevron-down"></i>
                  </div>
                 <div className="para">

@@ -49,9 +49,10 @@ body{
     
 }
 .fas{
-   
+     
     opacity: 0.5;
     margin-top: 15px;
+    margin-left: 10px;
 }
 .para{
     min-width: 23em;
